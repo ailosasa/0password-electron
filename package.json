@@ -83,7 +83,7 @@
   },
   "dependencies": {
     "aws-sdk": "^2.703.0",
-    "axios": "^0.19.2",
+    "axios": "^0.21.1",
     "element-ui": "^2.13.2",
     "ffi": "^2.3.0",
     "fs": "0.0.1-security",
